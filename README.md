@@ -6,7 +6,7 @@
 
 •	Sql
 
-•	Git(
+•	Git
 
 •	Go(Golang)
 
