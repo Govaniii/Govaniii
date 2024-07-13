@@ -6,7 +6,11 @@
 
 **Data Analysis:** Анализ данных в Сбере с использованием различных инструментов и технологий.
 
-**Learning:** Изучение нового языка программирования Golang для расширения навыков.
+**Data Engineering:** Оптимизация выгрузок из БД с помощью партиций в зависимости от объема таблиц в первую очередь использую Greenplum(т.к. более оптимизировано выгружает на определенную дату), во вторую очередь гружу с помощью Pyspark(если в Greenplum не помещается такой объем бд). 
+
+**Data Scientist:** Валидация моделей стандартных ML-моделей в Сбере на предмет неточности в обученние. Обучение моделей на новых данных, чтобы получить более высокий результат. 
+
+**Learning:** Изучение нового языка программирования Golang для расширения навыков. Изучаю основы обучения LLM для своих целей.
 
 ### Tech Stack
 
@@ -16,7 +20,7 @@
 
 **Python Libraries:** Pandas, NumPy, Matplotlib, PySpark, Subprocess, Scikit-learn (Sklearn), PyTorch, Pyplot, Seaborn, Tkinter.
 
-**ML:**LinearRegression,RandomForest,GradientBoosting,LogisticRegression,CatBoostRegression,SVC,cross_val_score,GridSearchCV.
+**ML algorithms:** LinearRegression, RandomForest, GradientBoosting, LogisticRegression, CatBoostRegression, SVC, cross_val_score, GridSearchCV.
 
 **SQL Environments:** MySQL, PostgreSQL, Greenplum, Hive.
 
