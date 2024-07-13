@@ -16,6 +16,8 @@
 
 **Python Libraries:** Pandas, NumPy, Matplotlib, PySpark, Subprocess, Scikit-learn (Sklearn), PyTorch, Pyplot, Seaborn, Tkinter.
 
+**ML:**LinearRegression,RandomForest,GradientBoosting,LogisticRegression,CatBoostRegression,SVC,cross_val_score,GridSearchCV.
+
 **SQL Environments:** MySQL, PostgreSQL, Greenplum, Hive.
 
 ### Connect with Me
