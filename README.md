@@ -8,7 +8,7 @@
 
 **Data Engineering:** Оптимизация выгрузок из БД с помощью партиций в зависимости от объема таблиц в первую очередь использую Greenplum(т.к. более оптимизировано выгружает на определенную дату), во вторую очередь гружу с помощью Pyspark(если в Greenplum не помещается такой объем бд). 
 
-**Data Scientist:** Валидация моделей стандартных ML-моделей в Сбере на предмет неточности в обученние. Обучение моделей на новых данных, чтобы получить более высокий результат. 
+**Data Scientist:** Валидация моделей стандартных ML-моделей в Сбере на предмет неточности в обученние. Обучение моделей на новых данных, чтобы получить более высокий результат. Работал с моделями GigaChat Pro и GigaChat Lite как для дообучения так и для валидации данных с помощью LLM. 
 
 **Learning:** Изучение нового языка программирования Golang для расширения навыков. Изучаю основы обучения LLM для своих целей.
 
@@ -18,7 +18,7 @@
 
 **Tools:** Git, GitLab, Bitbucket.
 
-**Python Libraries:** Pandas, NumPy, Matplotlib, PySpark, Subprocess, Scikit-learn (Sklearn), PyTorch, Pyplot, Seaborn, Tkinter.
+**Python Libraries:** Pandas, NumPy, Matplotlib, PySpark, Subprocess, Scikit-learn (Sklearn), PyTorch, Pyplot, Seaborn, Tkinter, langchain.
 
 **ML algorithms:** LinearRegression, RandomForest, GradientBoosting, LogisticRegression, CatBoostRegression, SVC, cross_val_score, GridSearchCV.
 
